@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cc5b95a-ab3a-42a5-bf47-0658e135a475" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GifExpertApp/GifExpertApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AddCategory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GifGrid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GifGridItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/getGifs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useFetchGifs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+    <list default="true" id="7cc5b95a-ab3a-42a5-bf47-0658e135a475" name="Changes" comment="Changes on Public folder for github">
+      <change afterPath="$PROJECT_DIR$/src/helpers/getGifs/getGifs.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useFetchGifs/useFetchGifs.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GifExpertApp/GifExpertApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/GifExpertApp/GifExpertApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GifGrid.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GifGrid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/getGifs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/getGifs/getGifs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useFetchGifs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useFetchGifs/useFetchGifs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +47,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hooks/useFetchGifs" />
+      <recent name="$PROJECT_DIR$/src/helpers/getGifs" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,8 +62,32 @@
       <updated>1652436061590</updated>
       <workItem from="1652436062944" duration="5375000" />
       <workItem from="1652967451764" duration="8205000" />
-      <workItem from="1653030162255" duration="2668000" />
+      <workItem from="1653030162255" duration="9030000" />
+      <workItem from="1653288919205" duration="44000" />
+      <workItem from="1654154030313" duration="397000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1653032851906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653032851906</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1653033007541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653033007541</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changes on Public folder for github">
+      <created>1653034129308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653034129308</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +103,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Changes on Public folder for github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes on Public folder for github" />
   </component>
 </project>
